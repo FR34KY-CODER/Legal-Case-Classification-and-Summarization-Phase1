@@ -1,9 +1,3 @@
-Below is a **clean, modern, recruiter-friendly GitHub README** based on your architecture story.
-It’s written to *look premium*, like something a top ML engineer would ship.
-You can copy–paste directly into `README.md`.
-
----
-
 # ⚖️ Legal Document Classifier + Summarizer + RAG Search
 
 *A Zero-Shot Semantic Pipeline for Classifying, Summarizing, and Querying Long Legal Documents*
