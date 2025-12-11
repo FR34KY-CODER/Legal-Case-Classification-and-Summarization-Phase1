@@ -1,3 +1,4 @@
+## Uploading the whole directory wasn't possible on gihub due to size limitations and conflicts arising during the push
 # ⚖️ Legal Document Classifier + Summarizer + RAG Search
 
 *A Zero-Shot Semantic Pipeline for Classifying, Summarizing, and Querying Long Legal Documents*
